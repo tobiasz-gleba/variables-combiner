@@ -21,3 +21,8 @@ Example: `global` < `environment` < `application specyfic values`
 1. Yaml
 
 ### Contributing
+
+### Tech stack
+
+1. Golang as a programming lang
+2. GitHub Actions as CICD
