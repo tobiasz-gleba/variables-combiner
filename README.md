@@ -18,6 +18,7 @@ Example: `global` < `environment` < `application specyfic values`
 
 ### Supported variables outputs
 
+
 1. Yaml
 
 ### Contributing
